@@ -6,14 +6,23 @@ See the schematic for suggested resistor values (borrowed direcly from Nearness)
 You can change the resistors to taste if required;
 The resistor pairs for each input are marked on the silkscreen as follows:
 
+
 HL = hard left
+
 LL = mostly left
+
 L = slightly left
+
 HP = centered, with high pass filter
+
 C = centered
+
 R = slightly right
+
 RR = mostly right
+
 HR = hard right
+
 
 The '+' and '-' symbols indicate which resistor should be bigger (+) and smaller (-)
 Eg. HL+ is 1M67 ohm, HL- is 100k ohm
