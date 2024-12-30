@@ -25,7 +25,9 @@ HR = hard right
 
 
 The '+' and '-' symbols indicate which resistor should be bigger (+) and smaller (-)
+
 Eg. HL+ is 1M67 ohm, HL- is 100k ohm
+
 The resistors for HP and C should all be the same, to keep the signal centered.
 
 3.5mm jacks:
